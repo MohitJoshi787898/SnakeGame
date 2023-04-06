@@ -1,9 +1,5 @@
 Snake Game using HTML, CSS and JavaScript
 This is a classic snake game built using HTML, CSS and JavaScript.
-
-Game Preview
-Game Preview
-
 Game Features
 The snake moves automatically and continuously on the game board.
 The player can control the direction of the snake using arrow keys.
